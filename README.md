@@ -1,3 +1,6 @@
-# Neghbourhood map #
+# IPHONE #
 
-## How to run ##
+## Information about iphone ##
+
+*pics of iphone*
+*table of contents*
