@@ -1,3 +1,3 @@
-#Neghbourhood map#
+# Neghbourhood map #
 
-##How to run##
+## How to run ##
